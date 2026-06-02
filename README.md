@@ -229,3 +229,7 @@ When adding a new provider:
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).
+
+---
+
+Portfolio project by Ubaid Ullah. For professional Django, SaaS, AI automation, API, dashboard, and cloud deployment work, visit [Djangix](https://djangix.com/).
